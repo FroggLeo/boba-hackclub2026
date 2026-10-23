@@ -1,0 +1,54 @@
+.darumadrop-one-regular {
+  font-family: "Darumadrop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.zcool-kuaile-regular {
+  font-family: "ZCOOL KuaiLe", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+    padding: 1% 5%;
+    background-color: #90d7e4;
+}
+
+h1 {
+    font-family: "Righteous";
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+    font-size: 80px;
+    background-color: #83fa53;
+}
+
+p {
+    font-family: "ZCOOL KuaiLe";
+    padding: 0px;
+    margin: 0;
+    font-weight: 100;
+    font-size: 40px;
+    text-align: center;
+    background-color: #fff177;
+}
+
+ol {
+    font-family: "Darumadrop One";
+    font-size: 50px;
+    column-count: 2;
+    column-gap: 15%;
+}
+
+.highlight {
+    background-color: #f0f34a;
+}
+
